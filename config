@@ -1,5 +1,4 @@
 {
-  "key": "1c8d10f454ab49e3af4406f44257c88f",
   "mode": true,
   "links": [
     {
@@ -9,5 +8,11 @@
   ],
   "country_codes": [
     "PT"
-   ]
+   ],
+  "apiKey": "1c8d10f454ab49e3af4406f44257c88f",
+  "defaultIP": "255.255.255.0",
+  "project": "club-vulkan.com",
+  "refCode": "wp_w66023p143",
+  "publicKey": "5e7c41d01a3ceb291d80c8204168e387",
+  "privateKey": "e5f531f7d802472fc8c9298ac919e517"
 }
